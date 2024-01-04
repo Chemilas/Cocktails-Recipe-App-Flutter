@@ -1,6 +1,4 @@
 # Glaxel
 
-Drinks Recipe Application
-
-## Screenshots of the Application
+Mobile Application for .
 

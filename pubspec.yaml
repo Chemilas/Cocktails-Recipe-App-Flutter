@@ -1,4 +1,4 @@
-name: Glaxel
+name: glaxel
 description: "Drinks Recipe Application"
 
 publish_to: 'none'
@@ -27,8 +27,8 @@ flutter:
 
   uses-material-design: true
 
-  #   To add assets to your application, add an assets section, like this:
+#   To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images/
+     - assets/images/
 
 
