@@ -1,6 +1,6 @@
 # Glaxel
 
-Mobile Application which shows Collection Of Cocktails and its Recipes.
+An Android Application for Collection Of Cocktails and its Recipes.
 
 ## Screenshots of the Application:
 
